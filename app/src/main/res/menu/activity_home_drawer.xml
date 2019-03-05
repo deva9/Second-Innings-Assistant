@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/reco" android:icon="@android:drawable/ic_menu_camera"
+            android:title="Recognition"/>
+        <item android:id="@+id/meds" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="Manage meds" />
+        <item android:id="@+id/srch" android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="Search a place" />
+        <item android:id="@+id/sos" android:icon="@android:drawable/ic_menu_manage"
+            android:title="SOS" />
+        <item android:id="@+id/fina" android:icon="@android:drawable/ic_menu_manage"
+            android:title="Manage finances" />
+        <item android:id="@+id/tech" android:icon="@android:drawable/ic_menu_share"
+            android:title="Get help with technology" />
+        <item android:id="@+id/bord" android:icon="@android:drawable/ic_menu_share"
+                android:title="Listen to some music" />
+        <item android:id="@+id/lost" android:icon="@android:drawable/ic_menu_send"
+                android:title="I'm Lost" />
+    </group>
+</menu>

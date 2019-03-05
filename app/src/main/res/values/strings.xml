@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KJSCE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_lost">Lost</string>
+    <string name="title_activity_pill">PillActivity</string>
+    <string name="title_activity_lostf">Lostf</string>
+    <string name="title_activity_financial_details">FinancialDetails</string>
+    <string name="title_activity_songs">Songs</string>
+    <string name="title_activity_gps">Gps</string>
+    <string name="title_activity_routine">RoutineActivity</string>
+</resources>
